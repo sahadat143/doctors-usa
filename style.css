@@ -1,0 +1,113 @@
+.body{
+    position: relative;
+    width: 1920px;
+    height: 8306px;
+    background: #FFFFFF;
+}
+.header-frist{
+  /* Bg */
+    position: absolute;
+    width: 1919.09px;
+    height: 972.39px;
+    left: 0.95px;
+    right: 192.96px;
+    top: 6.66px;
+    bottom: 197.95px;
+        
+}
+.content-text{
+
+    position: absolute;
+    width: 1320px;
+    height: 265px;
+    left: 300px;
+    right: 300px;
+    top: 932px;
+    bottom: 7109px;
+}
+.doctor-services{
+    
+    /* About Us */
+    position: absolute;
+    width: 1498px;
+    height: 1002.02px;
+    left: 122px;
+    right: 300px;
+    top: 1327px;
+    bottom: 5976.98px;
+}
+
+.servies{
+  /* Services */
+    position: absolute;
+    width: 1815px;
+    height: 768.66px;
+    left: 105px;
+    right: 0;
+    top: 2438px;
+    bottom: 5099.34px;
+}
+.expriences{
+    
+   /* Our Expert */
+    position: absolute;
+    width: 1762px;
+    height: 1011px;
+    left: 138px;
+    right: 20px;
+    top: 3313px;
+    bottom: 3982px;
+}
+.our-doctors{
+/* Our Expert */
+    position: absolute;
+    width: 1762px;
+    height: 1011px;
+    left: 138px;
+    right: 20px;
+    top: 3313px;
+    bottom: 3982px;
+}
+.our-speiales-doctor{
+  
+  /* Our Specialist Doctors */
+    position: absolute;
+    width: 1374px;
+    height: 993px;
+    left: 273px;
+    right: 273px;
+    top: 5220px;
+    bottom: 2093px;
+}
+.doctors-news{
+   
+  /* Latest News */
+    position: absolute;
+    width: 1320px;
+    height: 934px;
+    left: 300px;
+    right: 300px;
+    top: 6343px;
+    bottom: 1029px;
+}
+.join{
+   
+   /* Rectangle 3445 */
+    position: absolute;
+    width: 1320px;
+    height: 240px;
+    left: 300px;
+    right: -300px;
+    top: 7387px;
+    bottom: -7387px;
+}
+.footer{
+/* image 163 */
+    position: absolute;
+    width: 1920px;
+    height: 709px;
+    left: 0;
+    right: 0;
+    top: 7600px;
+    bottom: -7600px;
+}
